@@ -1,3 +1,4 @@
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/202e5aaf-1b1a-4506-b40f-5691de8ff3c2" />
 2️⃣ Program Bilangan Ganjil atau Genap
 🔹 Perangkat program:
 
